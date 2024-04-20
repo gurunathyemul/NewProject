@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "NewProject"
 include(":presentation")
- 
+include(":domain")
+include(":data")
