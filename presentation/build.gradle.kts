@@ -12,6 +12,7 @@ android {
 
     buildFeatures {
         dataBinding = true
+        aidl=true
     }
 
     defaultConfig {
